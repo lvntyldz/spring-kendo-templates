@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="_JV_SPR_KND_TEMPLATES:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="_JV_SPR_KND_TEMPLATES-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="_JV_SPR_KND_TEMPLATES:war exploded" />
+    </root>
+  </artifact>
+</component>
